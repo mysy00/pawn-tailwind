@@ -1,0 +1,6 @@
+site: ""
+user: Mysy00
+repo: pawn-tailwind
+tag: 0.0.1
+entry: test.pwn
+output: gamemodes/test.amx
